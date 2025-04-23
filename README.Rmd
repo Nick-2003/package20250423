@@ -16,6 +16,8 @@ knitr::opts_chunk$set(
 # package20250423
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/Nick-2003/package20250423/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Nick-2003/package20250423/actions/workflows/R-CMD-check.yaml)
+[![Codecov test coverage](https://codecov.io/gh/Nick-2003/package20250423/graph/badge.svg)](https://app.codecov.io/gh/Nick-2003/package20250423)
 <!-- badges: end -->
 
 The goal of package20250423 is to ...

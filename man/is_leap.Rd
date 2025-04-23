@@ -16,7 +16,9 @@ Boolean
 Check if number given is a leap year
 }
 \examples{
-is_leap(2020)
+is_leap(2000)
 #> TRUE
+is_leap(1900)
+#> FALSE
 
 }
