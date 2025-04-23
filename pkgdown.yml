@@ -1,0 +1,9 @@
+pandoc: 3.1.11
+pkgdown: 2.1.1
+pkgdown_sha: ~
+articles:
+  u_vig: u_vig.html
+last_built: 2025-04-23T17:44Z
+urls:
+  reference: https://nick-2003.github.io/package20250423/reference
+  article: https://nick-2003.github.io/package20250423/articles
